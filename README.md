@@ -1,1 +1,1 @@
-# s7forseh-do-it-yourself-devops-automation
+# Eric-do-it-yourself
